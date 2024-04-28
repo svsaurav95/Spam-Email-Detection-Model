@@ -16,14 +16,17 @@ Usage
 Clone this repository to your local machine.
 Download the dataset (mail_data_final.csv) and place it in the project directory.
 Install the required dependencies using pip:
+
 Copy code
 
 pip install numpy pandas scikit-learn
+
 Run the script
 
 spam_classifier.py
 
 to train the model and make predictions.
+
 Copy code
 
 python Espam detection.py
